@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cbcc068-504f-4a70-8b73-68ea5c71f3f6" name="Default" comment="third">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.iml" />
+    <list default="true" id="0cbcc068-504f-4a70-8b73-68ea5c71f3f6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-10.xhtml" afterPath="$PROJECT_DIR$/6-10.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-12.xhtml" afterPath="$PROJECT_DIR$/6-12.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-6.xhtml" afterPath="$PROJECT_DIR$/6-6.xhtml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,7 +256,7 @@
       <workItem from="1507770445616" duration="32000" />
       <workItem from="1507770514414" duration="141000" />
       <workItem from="1507771156168" duration="834000" />
-      <workItem from="1507774689250" duration="2469000" />
+      <workItem from="1507774689250" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="third">
       <created>1507771293586</created>
@@ -269,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507771293586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="four">
+      <created>1507777235088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507777235089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13551000" />
+    <option name="totallyTimeSpent" value="13583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1080" extended-state="6" />
@@ -350,7 +353,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="four" />
+    <option name="LAST_COMMIT_MESSAGE" value="four" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -460,6 +464,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
